@@ -32,5 +32,3 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 <p align="left">
 <a href="https://linkedin.com/in/daniele-bocchino-aa602a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielebocchino" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
