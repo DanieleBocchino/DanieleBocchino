@@ -85,7 +85,7 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 <!--CSS-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <!--MATERIAL-->
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="/img/material.png" alt="mui" width="40" height="40"/> </a> 
 <!--BOOTSTRAP-->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <!--BULMA-->
@@ -138,5 +138,5 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 <!--PHOTOSHOP-->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <!--LIGHTROOM-->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer"> <img src="/img/lightroom.png" alt="lightroom" width="40" height="40"/> </a>
 </p>  
