@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Daniele Bocchino</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Daniele Bocchino 🇮🇹</h1>
+<h3 align="center">A passionate Software Engineer 💻</h3>
 
 <h3 align="left">About me:</h3>
 
