@@ -24,7 +24,7 @@ I'm so passionate about software development that I invest much of my free time 
 I am fascinated by data, by everything that is quantifiable and from which information can be extracted. For this reason, I oriented my master's studies toward data analysis and machine learning.
 - 🔭 Actually I work on my Thesis about **Audio-Visual Attention Modeling via Reinforcement Learning**
 
-- 👨‍💻 All of my information are available at [My Website](https://danielebocchino.github.io/)
+- 🌍 All of my information are available at [My Website](https://danielebocchino.github.io/)
 
 - 📫 How to reach me **bocchino.daniele@gmail.com**
 
