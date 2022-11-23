@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniele Bocchino</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **AWS and Machine Learning**
+- 🌱 I’m currently learning **AWS** and **Machine Learning**
 
 - 🔭 My non-university projects are : <br/>
           [Ciuka - Party Game](https://b-except.com/ciuka/share.html)<br/>
