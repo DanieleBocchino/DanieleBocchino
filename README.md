@@ -6,7 +6,7 @@
 - 👨‍🎓 I’m a Master's student in Computer Science at the University of Milan.
 - 🧠 I'm very sunny, empathetic and friendly.
 - 🚀 I'm very ambistious, I possess a natural predisposition for leadership.
-- 🌱 I’m currently learning **AWS** and **Machine Learning**
+- - 🌱 I’m currently learning **AWS** and **Machine Learning**
 
 
 <h3 align="left">Projects:</h3>
