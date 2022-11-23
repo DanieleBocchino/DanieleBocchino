@@ -3,11 +3,14 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <h3 align="left">About me:</h3>
-- 👨‍🎓 I’m a Master's student in Computer Science at the University of Milan.
-- 🧠 I'm very sunny, empathetic and friendly.
-- 🚀 I'm very ambistious, I possess a natural predisposition for leadership.
-- - 🌱 I’m currently learning **AWS** and **Machine Learning**
 
+- 👨‍🎓 I’m a Master's student in Computer Science at the University of Milan.
+
+- 🧠 I'm very sunny, empathetic and friendly.
+
+- 🚀 I'm very ambistious, I possess a natural predisposition for leadership.
+
+- 🌱 I’m currently learning **AWS** and **Machine Learning**
 
 <h3 align="left">Projects:</h3>
 During university I developed a few projects. If you want you can see them here, on my GitHub
