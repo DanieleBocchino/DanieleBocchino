@@ -91,7 +91,7 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 <!--BULMA-->
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
 <!--CIAKRA-->
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>    
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="/img/chakra.png" alt="chakra" width="40" height="40"/> </a>    
 </p>
           
  
