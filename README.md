@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **AWS** and **Machine Learning**
 
 <h3 align="left">Projects:</h3>
-During university I developed a few projects. If you want you can see them here, on my GitHub
+During university I developed a few projects. If you want you can see them here, on my GitHub.<br/>
 I'm so passionate about software development that I invest much of my free time in creating mobile and web applications. 
 
 - 🧑‍💻 My non-university projects are : <br/>
