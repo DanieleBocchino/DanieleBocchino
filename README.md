@@ -16,11 +16,11 @@
 During university I developed a few projects. If you want you can see them here, on my GitHub.<br/>
 I'm so passionate about software development that I invest much of my free time in creating mobile and web applications. 
 
-- 🧑‍💻 My non-university projects are : <br/>
--         [My Website](https://danielebocchino.github.io/)<br/>
-          [Ciuka - Party Game](https://b-except.com/ciuka/share.html)<br/>
-          [ISLab Website](https://islab.di.unimi.it/)<br/>
-          [Lora Giusta - Guest House](https://lora-giusta.com/)<br/>
+- 🧑‍💻 My non-university projects are : <br/
+-        [My Website](https://danielebocchino.github.io/)<br/>
+-        [Ciuka - Party Game](https://b-except.com/ciuka/share.html)<br/>
+-        [ISLab Website](https://islab.di.unimi.it/)<br/>
+-        [Lora Giusta - Guest House](https://lora-giusta.com/)<br/>
           
 I am fascinated by data, by everything that is quantifiable and from which information can be extracted. For this reason, I oriented my master's studies toward data analysis and machine learning.
 - 🔭 Actually I work on my Thesis about **Audio-Visual Attention Modeling via Reinforcement Learning**
