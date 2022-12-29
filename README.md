@@ -17,7 +17,7 @@ During university I developed a few projects. If you want you can see them here,
 I'm so passionate about software development that I invest much of my free time in creating mobile and web applications. 
 
 - 🧑‍💻 My non-university projects are : <br/>
-        [My Website](https://danielebocchino.github.io/)<br/>
+        [My Website](https://danielebocchino.github.io/) <br/>
         [Ciuka - Party Game](https://b-except.com/ciuka/share.html)<br/>
         [ISLab Website](https://islab.di.unimi.it/)<br/>
         [Lora Giusta - Guest House](https://lora-giusta.com/)<br/>
@@ -31,7 +31,7 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/DanieleBocchino" target="blank"><img align="center" src="img/git.png)" alt="danielebocchino_git" height="30" width="40" /></a>
+<a href="https://github.com/DanieleBocchino" target="blank"><img align="center" src="/img/git.png)" alt="danielebocchino_git" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/daniele-bocchino-aa602a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielebocchino" height="30" width="40" /></a>
 </p>
