@@ -62,12 +62,12 @@ I am fascinated by data, by everything that is quantifiable and from which infor
   
   
 ## 💻 Main Projects:  
-
+  
 <a href="https://github.com/DanieleBocchino/Business-Information-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanieleBocchino&repo=Business-Information-System&theme=highcontrast&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanieleBocchino&repo=Business-Information-System&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/DanieleBocchino/BPE-Cloud-Gaming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanieleBocchino&repo=BPE-Cloud-Gaming&theme=highcontrast&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanieleBocchino&repo=BPE-Cloud-Gaming&theme=radical&hide_border=true" />
 </a>
 
 ## 🌐 Contact Me:
