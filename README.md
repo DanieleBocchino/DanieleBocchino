@@ -54,7 +54,6 @@ I am fascinated by data, by everything that is quantifiable and from which infor
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleBocchino&theme=highcontrast&hide_border=true&layout=compact"/>
   </div>
 
-
   <p align="center">
 </p>
   
