@@ -4,8 +4,8 @@
 
 
  <div style="display: inline-block;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=500&color=FF7800&background=FF373700&vCenter=true&multiline=true&repeat=false&width=550&height=175&lines=%F0%9F%8D%80+Msc+Student+in+Computer+Science;%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%A7%A0+Critical+Thinker;%F0%9F%94%A5+Ambitious+%26+Motivated;%F0%9F%94%8E+Extremly+Curious+" alt="Typing SVG" />
-      <img align='center' src="img/developer.gif" width='30%'/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=500&color=FF7800&background=FF373700&vCenter=true&multiline=true&repeat=false&width=500&height=175&lines=%F0%9F%8D%80+Msc+Student+in+Computer+Science;%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%A7%A0+Critical+Thinker;%F0%9F%94%A5+Ambitious+%26+Motivated;%F0%9F%94%8E+Extremly+Curious+" alt="Typing SVG" />
+      <img align='center' src="img/developer.gif" width='30%' height='80%/>
   </div>
 
 
